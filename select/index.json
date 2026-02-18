@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "炉心融解",
+  "base_artist": "iroha(sasaki)",
+  "createdAt": "2026-02-18T09:38:31.081911Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "炉心融解",
+      "artist": "iroha(sasaki)",
+      "has_synced": true,
+      "path": "select/01_炉心融解_iroha(sasaki).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "炉心融解",
+      "artist": "iroha",
+      "has_synced": true,
+      "path": "select/02_炉心融解_iroha.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "炉心融解",
+      "artist": "Helvetia",
+      "has_synced": false,
+      "path": "select/03_炉心融解_Helvetia.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "炉心融解",
+      "artist": "iroha feat. 鏡音リン",
+      "has_synced": true,
+      "path": "select/04_炉心融解_iroha_feat._鏡音リン.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "炉心融解",
+      "artist": "Rin Kagamine・Len Kagamine feat. Asami Shimoda",
+      "has_synced": true,
+      "path": "select/05_炉心融解_Rin_Kagamine・Len_Kagamine_feat._Asami_Shimoda.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "炉心融解",
+      "artist": "iroha(sasaki) feat. 鏡音リン",
+      "has_synced": true,
+      "path": "select/06_炉心融解_iroha(sasaki)_feat._鏡音リン.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "炉心融解",
+      "artist": "iroha(sasaki) feat. 鏡音リン",
+      "has_synced": true,
+      "path": "select/07_炉心融解_iroha(sasaki)_feat._鏡音リン.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "炉心融解 - meltdown (feat. Kagamine Rin)",
+      "artist": "iroha(sasaki)",
+      "has_synced": true,
+      "path": "select/08_炉心融解_-_meltdown_(feat._Kagamine_Rin)_iroha(sasaki).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "炉心融解",
+      "artist": "Kagamine, Rin・Kagamine, Len feat. Shimoda, Asami",
+      "has_synced": true,
+      "path": "select/09_炉心融解_Kagamine,_Rin・Kagamine,_Len_feat._Shimoda,_Asami.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "炉心融解",
+      "artist": "鏡音リン・鏡音レン",
+      "has_synced": true,
+      "path": "select/10_炉心融解_鏡音リン・鏡音レン.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "炉心融解",
+      "artist": "鏡音リン・鏡音レン feat. 下田麻美",
+      "has_synced": true,
+      "path": "select/11_炉心融解_鏡音リン・鏡音レン_feat._下田麻美.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "炉心融解",
+      "artist": "iroha(sasaki); 鏡音リン",
+      "has_synced": true,
+      "path": "select/12_炉心融解_iroha(sasaki);_鏡音リン.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "炉心融解",
+      "artist": "iroha feat. 鏡音リン",
+      "has_synced": true,
+      "path": "select/13_炉心融解_iroha_feat._鏡音リン.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "炉心融解",
+      "artist": "iroha feat. Kagamine, Rin",
+      "has_synced": true,
+      "path": "select/14_炉心融解_iroha_feat._Kagamine,_Rin.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "炉心融解",
+      "artist": "iroha(sasaki)",
+      "has_synced": false,
+      "path": "select/pl_01_炉心融解_iroha(sasaki).txt"
+    }
+  ]
+}
